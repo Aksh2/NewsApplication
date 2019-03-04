@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApplication</string>
+    <color name="item_name_color">#333333</color>
+    <color name="description_color">#8c8c8c</color>
+    <string name="title_activity_webview">WebviewActivity</string>
+    <string name="webview_error_message">Unable to load the content</string>
+
+</resources>
